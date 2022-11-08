@@ -6,20 +6,20 @@ https://colab.research.google.com/drive/10YUXqPuG7OveZucwWzJOjOVsOvsbFtW1?usp=sh
 
 ## 1. Как в основном задании - с указанными таблицами, на положительном стренде, за один шаг (без пересчёта таблиц вероятностей)
 
-![image](https://user-images.githubusercontent.com/52814490/199781074-266b5932-6329-41f1-a0eb-cd4e5eb2e127.png)
+![image](https://user-images.githubusercontent.com/52814490/200640136-6b4a69e5-73c3-4d34-a49a-0a12015f6c5b.png)
 
 ## 2. Как в основном задании, но с пересчётом таблиц, начиная с данных выше
 
-![image](https://user-images.githubusercontent.com/52814490/199781370-ed14320c-88ed-49b8-8b12-5b90198e0c5f.png)
+![image](https://user-images.githubusercontent.com/52814490/200640224-61a26e65-ae2a-4f34-b46a-cf7bf380547f.png)
 
 ## 3. На этом же участке, но не пользуясь изначальными таблицами, а расчитывая их из ORF-ов
 
-![image](https://user-images.githubusercontent.com/52814490/199781438-4412cce6-5aeb-43ed-8e46-ac2e2c377a57.png)
+![image](https://user-images.githubusercontent.com/52814490/200640277-44ee8a5b-a2ac-4002-a246-294bf84a94a8.png)
 
 ## 4. На участке ДНК, который содержит ген как на положительном, так и на отрицательном стренде
 
-![image](https://user-images.githubusercontent.com/52814490/199781491-e90fd9c8-83d1-4b1f-9e53-19859d169ae0.png)
+![image](https://user-images.githubusercontent.com/52814490/200640320-42aca9bf-28ca-474e-ada9-1606e2b8cf77.png)
 
 ## 5. Запуск на файле .fasta (то же самое место в геноме, что и в предыдущем пункте)
 
-![image](https://user-images.githubusercontent.com/52814490/199781529-91a70174-8ccd-460e-8940-93256589a52e.png)
+![image](https://user-images.githubusercontent.com/52814490/200640348-63c6e802-8cc7-4cd9-b057-dbffc5e87874.png)
