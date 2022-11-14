@@ -1,6 +1,6 @@
 # Ссылка на google colab ноутбуки (также они есть в папке src/)
 
-https://colab.research.google.com/drive/10YUXqPuG7OveZucwWzJOjOVsOvsbFtW1?usp=sharing
+https://colab.research.google.com/drive/14Y2n0-H_1cNj15--ctZw-lTkoe3Ek6YE?usp=sharing
 
 # Графики:
 
